@@ -338,7 +338,6 @@
         Matrixx-utvecklarna för att spåra unika installationer mellan enheter. Den delgivna informationen innehåller ett unikt ID-nummer,
         som inte kränker din integritet eller dina personliga data. Datan skickas varje gång enheten startas.\n\nFör ett exempel på den data som skickas, tryck på Förhandsgranska data.</string>
     <string name="preview_data_title">Förhandsgranska data</string>
-    <string name="view_stats_title">Visa statistik</string>
     <string name="anonymous_learn_more">Mer information</string>
     <string name="preview_id_title">Unikt ID</string>
     <string name="preview_device_title">Enhet</string>
