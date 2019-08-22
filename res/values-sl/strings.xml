@@ -429,15 +429,12 @@
         ki ne ogroža vaše zasebnosti in osebnih podatkov. Podatki so poslani ob vsakem zagonu.\n\nZa primer poslanih podatkov tapnite Predogled podatkov.</string>
     <string name="enable_reporting_title">Omogoči poročanje</string>
     <string name="preview_data_title">Predogled podatkov</string>
-    <string name="view_stats_title">Pokaži statistiko</string>
     <string name="anonymous_learn_more">Več o tem</string>
     <string name="preview_id_title">Edinstven ID</string>
     <string name="preview_device_title">Naprava</string>
     <string name="preview_version_title">Različica</string>
     <string name="preview_country_title">Država</string>
     <string name="preview_carrier_title">Ponudnik</string>
-    <string name="stats_collection_title">Zbiranje statistike</string>
-    <string name="stats_collection_summary">Dovoli zbiranje meritev in statistike naprave</string>
     <string name="accelerometer_title">Samodejno zasukaj zaslon</string>
     <string name="display_rotation_title">Nastavitve sukanja</string>
     <string name="display_rotation_enabled">Samodejno sukanje je omogočeno</string>

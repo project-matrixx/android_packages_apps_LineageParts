@@ -217,7 +217,6 @@
     <string name="preview_version_title">Versión</string>
     <string name="preview_country_title">País</string>
     <string name="preview_carrier_title">Operadora</string>
-    <string name="stats_collection_title">Recoyida d\'estadístiques</string>
     <string name="display_rotation_unit">graos</string>
     <string name="display_rotation_0_title">0 graos</string>
     <string name="display_rotation_90_title">90 graos</string>
