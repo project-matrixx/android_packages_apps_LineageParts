@@ -49,8 +49,7 @@
             android:defaultValue="0" />
 
         <lineageos.preference.LineagePartsPreference
-            android:key="lineagestats"
-            android:icon="@drawable/ic_counter" />
+            android:key="lineagestats" />
 
         <ListPreference
             android:key="sms_security_check_limit"
