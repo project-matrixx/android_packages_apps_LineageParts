@@ -1,16 +1,16 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: LineageParts
-Upstream-Contact: The LineageOS Project
-Source: https://github.com/LineageOS/android_packages_apps_LineageParts
+Upstream-Contact: The Matrixx Project
+Source: https://github.com/Matrixx/android_packages_apps_LineageParts
 
 Files: assets/contributors.db
 Copyright:
     2016 The CyanogenMod Project
-    2017-2023 The LineageOS Project
+    2017-2023 The Matrixx Project
 License: Apache-2.0
 
 Files: res/drawable-nodpi/color_mode_preview.jpg
-Copyright: 2020 The LineageOS Project
+Copyright: 2020 The Matrixx Project
 License: Apache-2.0
 
 Files: .gitignore app/.gitignore
