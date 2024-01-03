@@ -51,12 +51,12 @@ public class PlatLogoActivity extends Activity {
         private int mDarkest;
         private float mOffset;
 
-        // LineageOS logo drawable
+        // Matrixx logo drawable
         private final Drawable mLogo;
 
         public PBackground(Context context) {
             randomizePalette();
-            // LineageOS logo
+            // Matrixx logo
             mLogo = context.getResources().getDrawable(R.drawable.logo_lineage, context.getTheme());
             mLogo.setColorFilter(new ColorMatrixColorFilter(WHITE)); // apply color filter
             mLogo.setBounds(0, 0, 360, 180); // Aspect ratio 2:1
@@ -188,7 +188,7 @@ public class PlatLogoActivity extends Activity {
             }
             canvas.restore();
 
-            // Draw LineageOS Logo drawable
+            // Draw Matrixx Logo drawable
             canvas.save();
             {
                 canvas.translate((-360 / 2f) * mRadius / BASE_SCALE,
